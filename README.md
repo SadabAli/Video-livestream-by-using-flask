@@ -1,0 +1,6 @@
+This is my first flask web frame work (Video Streaming)......
+
+if you want to access this then you have have to install all the package that are present in requarment.txt
+Run the code and enjoy...
+
+            THANKYOU
