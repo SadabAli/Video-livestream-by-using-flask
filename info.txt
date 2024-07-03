@@ -1,0 +1,1 @@
+The MIME type "multipart/x-mixed-replace; boundary=frame" is used in the context of HTTP streaming for real-time data, such as video streaming. It allows the server to push content to the client continuously, where each part of the content is separated by a boundary string.
